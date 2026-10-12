@@ -1,3 +1,3 @@
-def calcular_total(p,c):
-x = p * c
-return x
+def calcular_total(precio, cantidad):
+    """Calcula el importe total de un producto."""
+    return precio * cantidad
